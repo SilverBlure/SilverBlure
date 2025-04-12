@@ -1,16 +1,22 @@
-## Hi there 👋
+# 👋 Hi, ich bin Nicolai – aka SilverBlure
 
-<!--
-**SilverBlure/SilverBlure** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Ich bin ein angehender Frontend-Entwickler mit einer großen Leidenschaft für kreative Weblösungen und browserbasierte Spielideen.
 
-Here are some ideas to get you started:
+Aktuell arbeite ich bei Deutz im Bereich Prozessoptimierung – meine Freizeit widme ich aber der Softwareentwicklung, insbesondere JavaScript, React und Web-Animationen mit Canvas. Ich liebe es, Neues zu lernen, meine Grenzen zu verschieben und Projekte komplett selbst umzusetzen.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🚀 Projekte, auf die ich stolz bin:
+- **Join** – ein eigenes Kanban-Tool mit Aufgabenverwaltung
+- **Pokedex** – mit API-Anbindung & dynamischer Darstellung
+- **TheGame** – 2D-Survival-Prototyp mit Canvas
+- und viele kleine Projekte auf dem Weg zum Fullstack
+
+🎯 Mein Ziel: In ein Entwicklerteam wechseln, in dem ich mitgestalten, lernen und Verantwortung übernehmen kann.
+
+> 🧠 Learning by building – und dabei Schritt für Schritt zur Tech-Karriere
+
+---
+
+📫 **Kontakt & Links**  
+[GitHub](https://github.com/SilverBlure)  
+[Portfolio](https://dein-portfolio-link.com) *(bald)*  
+[LinkedIn](https://linkedin.com/in/dein-profil) *(wenn vorhanden)*  
