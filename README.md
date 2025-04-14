@@ -16,7 +16,6 @@ Aktuell arbeite ich bei Deutz im Bereich Prozessoptimierung – meine Freizeit w
 
 ---
 
-📫 **Kontakt & Links**  
-[GitHub](https://github.com/SilverBlure)  
+📫 **Kontakt & Links**    
 [Portfolio](https://dein-portfolio-link.com) *(bald)*  
 [LinkedIn](https://www.linkedin.com/in/nicolai-österle-036186273) 
